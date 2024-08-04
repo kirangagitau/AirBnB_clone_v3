@@ -163,4 +163,4 @@ Second part of Airbnb: Joann Vuong
 Public Domain. No copy write protection. 
 
 > [!NOTE]
-> Unix operating system source is great.
+> Code is worked from an unix based operating system.
